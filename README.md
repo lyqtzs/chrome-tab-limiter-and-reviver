@@ -2,8 +2,7 @@
 
 In the age of multitasking, it's easy to end up with dozens of open tabs, cluttering your browser and slowing down your workflow. **Tab Limiter And Reviver** is a powerful Chrome extension designed to help you regain control of your browsing experience. With this extension, you can effortlessly manage the number of open tabs in your browser and quickly revive closed tabs whenever needed.
 
-![Snipaste_2025-03-28_16-47-06 - 副本](https://github.com/user-attachments/assets/64a972ab-f0f8-4879-afe9-4e2b1b424919)
-
+![图片](https://github.com/user-attachments/assets/2452345f-e725-42d2-8da9-0751802a9bd4)
 
 ### **What is Tab Limiter And Reviver?**
 
